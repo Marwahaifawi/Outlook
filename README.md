@@ -13,7 +13,8 @@ To install this application, you should have Node.js and npm installed on your c
 ## Usage
 
 To run the application:
-
+By this link : https://marwahaifawi.github.io/Outlook/
+OR
 Start the development server: npm start
 Open your web browser and go to http://localhost:3000 to view the application.
 
