@@ -1,6 +1,10 @@
 
 # Outlook Emails Page - ReactJS Component
-This is a collaborative project to build an Outlook emails page using ReactJS components. During our training, Ahmad Ilawa,Wajeed Mabroukeh,Wurood Jebril and I worked together to design the page and I took responsibility for developing the right part of the page.
+This is a collaborative project to build an Outlook emails page using ReactJS components. During our training, Ahmad Ilawa,Wajeed Mabroukeh,Wurood Jebril and I worked together to design the page and I took responsibility for developing the right part of the page (RightBody Branch).
+
+![right part of the page image](https://user-images.githubusercontent.com/60556710/231310789-05faaf14-b620-4592-b2be-72f84552ce2e.png)
+
+
 ## Installation
 
 To install this application, you should have Node.js and npm installed on your computer.
